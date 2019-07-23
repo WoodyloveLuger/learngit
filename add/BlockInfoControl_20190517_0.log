@@ -1,0 +1,2 @@
+Warning: 2019-05-17 14:09:16:063  blockinfocontrol.cpp(L: 121, F: commonGetRecord) 表不存在: BlockInfoControl, 数据路径为: E:/svn/CompactSystem/VS2017/develop/source/../bin/data/gz@1524459397403/gz@1524461279789/monitorData/stratify_data.db
+Warning: 2019-05-17 14:39:45:454  blockinfocontrol.cpp(L: 121, F: commonGetRecord) 表不存在: BlockInfoControl, 数据路径为: E:/svn/CompactSystem/VS2017/develop/source/../bin/data/gz@1524459397403/gz@1524461279789/monitorData/stratify_data.db
