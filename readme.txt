@@ -4,3 +4,5 @@ Git is free software.
 password:123456
 Git is free software distributed under the GPL.
 add merge
+
+branch wzm test
